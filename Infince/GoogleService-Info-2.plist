@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>108666694480-4rl445vggrmqcngdju8u8ci7h9v8hijn.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.108666694480-4rl445vggrmqcngdju8u8ci7h9v8hijn</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBNUsPvsSgVLf9W7Awi6tzAlTFvITkM6IM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>108666694480</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>in.zedone.Infince</string>
+	<key>PROJECT_ID</key>
+	<string>infince-4bcab</string>
+	<key>STORAGE_BUCKET</key>
+	<string>infince-4bcab.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:108666694480:ios:194141db103f2b09b71a55</string>
+	<key>DATABASE_URL</key>
+	<string>https://infince-4bcab.firebaseio.com</string>
+</dict>
+</plist>
